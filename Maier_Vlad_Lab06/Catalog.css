@@ -1,0 +1,24 @@
+body{
+	text-align: center;
+font-family:"Arial",Helvetica,sans-serif;
+background-size: 100% , 100%;
+background-color: yellow;
+background-image: url("1.jpg");
+background-repeat:no-repeat;
+opacity: 90%;
+}
+img{
+opacity: 100%;
+border-radius:60px;
+ background:100%;
+ width: 300px;
+}
+h1{
+	color: white;
+}
+#catalog {
+	background-color: white;
+	color: black;
+	padding: 40px;
+	text-align: center;
+}
